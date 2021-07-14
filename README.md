@@ -20,10 +20,15 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### 技术栈
 Vue
+
 Vue-cli
+
 axios
+
 VueRouter
+
 EiementUi
+
 ES6\CSS3
 
 ### 预览截图
